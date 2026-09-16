@@ -2,3 +2,5 @@ In this folder you may find the steps that lead to a "proof" taken to the limits
 \frac{\sqrt{- 120 \sqrt{6} \sqrt{\sqrt{5} + 5} - 99 \sqrt{5} + 705 + 48 \sqrt{30} \sqrt{\sqrt{5} + 5}}}{3 \sqrt{5 - \sqrt{5}}}
 4.01077587433033
 The side length of the image I've uploaded has an error of approximately 1e-7 compared to the real solution, which should be indistinguishable from the real solution at any resolution.
+
+[THE ACTUAL PROOF I SENT IS NOT INCLUDED HERE]
