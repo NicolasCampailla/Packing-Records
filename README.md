@@ -10,7 +10,7 @@ This repository contains numerical solutions, tight non-overlap proofs, high-pre
 
 All packings listed below are **active world records** discovered by **Nicolas Campailla** and published on Erich Friedman's Packing Center.
 
-| Configuration | Outer Side ($s$) | Packing Efficiency | Diagram | Solution Data | Published |
+| Configuration | Outer Side $s$ | Packing Efficiency | Diagram | Solution Data | Published |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **13 Pentagons in a Hexagon** | `3.40902` | 69.86% | [Image](Approved%20Records/13%20Pentagons%20in%20a%20Hexagon/13_pentagons_in_a_hexagon.png) | [Solution](Approved%20Records/13%20Pentagons%20in%20a%20Hexagon/13_pentagons_in_a_hexagon.txt) | August 2026 |
 | **16 Pentagons in a Hexagon** | `3.69895` | 72.88% | [Image](Approved%20Records/16%20Pentagons%20in%20a%20Hexagon/16_pentagons_in_a_hexagon.png) | [Solution](Approved%20Records/16%20Pentagons%20in%20a%20Hexagon/16_pentagons_in_a_hexagon.txt) | August 2026 |
