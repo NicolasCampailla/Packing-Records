@@ -1,0 +1,1 @@
+- \frac{55}{4} - \frac{23 \sqrt{5}}{4} + \left(4 + \frac{5 \sqrt{5}}{2}\right) \sqrt{2 \sqrt{5} + 5}

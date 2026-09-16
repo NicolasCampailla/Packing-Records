@@ -1,0 +1,1 @@
+\frac{\sqrt{50 - 20 \sqrt{5}} + \sqrt{45 - 15 \sqrt{5}} + 3 \sqrt{\sqrt{5} + 5} + 2 \sqrt{30} + 5 \sqrt{6}}{\sqrt{5 - \sqrt{5}} \left(\sqrt{3} \sqrt{5 - 2 \sqrt{5}} + 3\right)}

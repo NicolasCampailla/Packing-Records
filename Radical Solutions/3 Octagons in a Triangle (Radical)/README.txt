@@ -1,0 +1,3 @@
+This is an attempt at finding the exact irrational expression of the outer side length of three octagons in a triangle. I recognize that the python script can be quite cryptic, so here is a desmos geometry link that I've used to aid me in the creation of these equations: https://www.desmos.com/geometry/fudh5q1yxb
+The script initially solves for the outer polygon side length, then finds the coordinates of the center of the third octagon and plots the whole system.
+(This is the solution formatted in LATEX: \frac{3}{2} + \sqrt{3} + \frac{5 \sqrt{2}}{4} + \frac{3 \sqrt{6}}{4})

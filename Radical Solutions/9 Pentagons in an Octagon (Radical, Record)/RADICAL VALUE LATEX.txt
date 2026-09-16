@@ -1,0 +1,1 @@
+\frac{\sqrt{2} \left(\sqrt{5} + \sqrt{\sqrt{5} + 5}\right)}{2 \sqrt{5 - \sqrt{5}}}

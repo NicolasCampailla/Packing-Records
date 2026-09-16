@@ -1,0 +1,2 @@
+2(\sqrt{2} - 1)\sin\left(\frac{\pi}{5}\right)\left[\frac{2\sin\left(\frac{\pi}{5}\right) + \sqrt{5} + 4}{1 + \sqrt{2}\tan\left(\frac{\pi}{5}\right)}\right]
+2(\sqrt{2} - 1)\sin(36^\circ)\left[\frac{2\sin(36^\circ) + \sqrt{5} + 4}{1 + \sqrt{2}\tan(36^\circ)}\right]

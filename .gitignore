@@ -1,0 +1,3 @@
+# Files to explicitly exclude from version control:
+# - Old number-named image files (duplicate aliases like 3.40902024.png kept alongside proper named ones)
+# Nothing else to exclude - all folders and content should be tracked
