@@ -33,7 +33,7 @@ All packings listed below are **active world records** discovered by **Nicolas C
 
 Dedicated analytical proofs and exact closed-form algebraic expressions for complex geometric packings:
 
-| Problem | Exact Closed-Form Side Length ($s$) | Approximate $s$ | Derivation & Code |
+| Problem | Exact Side Length $s$ | Approximate $s$ | Derivation & Code |
 | :--- | :---: | :---: | :--- |
 | **2 Pentagons in a Triangle** | $\sqrt{\frac{40+8\sqrt{5}}{3}} - \frac{3-\sqrt{5}}{2}$ | `4.01077` | [Proof & SymPy Solver](Radical%20Solutions/2%20Pentagons%20in%20a%20Triangle%20(Proof,%20Record)/) |
 | **3 Pentagons in a Square** | $-\frac{55}{4} - \frac{23\sqrt{5}}{4} + \left(4 + \frac{5\sqrt{5}}{2}\right)\sqrt{5+2\sqrt{5}}$ | `2.90812` | [SymPy Script & Desmos](Radical%20Solutions/3%20Pentagons%20in%20a%20Square%20(Radical)/) |
