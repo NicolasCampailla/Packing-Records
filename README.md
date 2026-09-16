@@ -35,15 +35,15 @@ Dedicated analytical proofs and exact closed-form algebraic expressions for comp
 
 | Problem | Exact Closed-Form Side Length ($s$) | Approximate $s$ | Derivation & Code |
 | :--- | :---: | :---: | :--- |
-| **2 Pentagons in a Triangle** | $\sqrt{\frac{40+8\sqrt{5}}{3}} - \frac{3-\sqrt{5}}{2}$ | `4.01077` | [Proof & SymPy Solver](Radical%20Solutions/2%20Pentagons%20in%20a%20Triangle%20(Proof)/) |
+| **2 Pentagons in a Triangle** | $\sqrt{\frac{40+8\sqrt{5}}{3}} - \frac{3-\sqrt{5}}{2}$ | `4.01077` | [Proof & SymPy Solver](Radical%20Solutions/2%20Pentagons%20in%20a%20Triangle%20(Proof,%20Record)/) |
 | **3 Pentagons in a Square** | $-\frac{55}{4} - \frac{23\sqrt{5}}{4} + \left(4 + \frac{5\sqrt{5}}{2}\right)\sqrt{5+2\sqrt{5}}$ | `2.90812` | [SymPy Script & Desmos](Radical%20Solutions/3%20Pentagons%20in%20a%20Square%20(Radical)/) |
 | **4 Pentagons in a Square** | $\frac{(3-\sqrt{5})\sqrt{5-\sqrt{5}} + \sqrt{2} + 7\sqrt{10}}{8}$ | `3.10253` | [SymPy Script & Desmos](Radical%20Solutions/4%20Pentagons%20in%20a%20Square%20(Radical)/) |
 | **4 Pentagons in a Triangle** | $\frac{\sqrt{365+151\sqrt{5}}}{2\sqrt{6}} - \frac{3}{4} + \frac{\sqrt{5}}{4}$ | `5.21983` | [SymPy Script & Desmos](Radical%20Solutions/4%20Pentagons%20in%20a%20Triangle%20(Radical)/) |
-| **6 Pentagons in an Octagon** | $2(\sqrt{2} - 1)\sin\left(\frac{\pi}{5}\right)\left[\frac{2\sin\left(\frac{\pi}{5}\right) + \sqrt{5} + 4}{1 + \sqrt{2}\tan\left(\frac{\pi}{5}\right)}\right]$ | `1.78003` | [Equations & SymPy Solver](Radical%20Solutions/6%20Pentagons%20in%20an%20Octagon%20(Radical)/) |
-| **7 Pentagons in a Hexagon** | $\frac{2\sqrt{5} - 1 + \sqrt{15 - 6\sqrt{5}}}{2}$ | `2.36527` | [SymPy Script & Desmos](Radical%20Solutions/7%20Pentagons%20in%20a%20Hexagon%20(Radical)/) |
-| **9 Pentagons in an Octagon** | $\frac{\sqrt{5} + \sqrt{5+\sqrt{5}}}{\sqrt{10 - 2\sqrt{5}}}$ | `2.09517` | [SymPy Script & Desmos](Radical%20Solutions/9%20Pentagons%20in%20an%20Octagon%20(Radical)/) |
-| **3 Hexagons in an Octagon** | $3 + 2\sqrt{6} - 2\sqrt{2} - 2\sqrt{3}$ | `1.60645` | [Analytical Solver](Radical%20Solutions/3%20Hexagons%20in%20an%20Octagon%20(Derivation)/) |
-| **3 Octagons in a Triangle** | $\frac{6 + 5\sqrt{2} + 4\sqrt{3} + 3\sqrt{6}}{4}$ | `6.83693` | [SymPy & Matplotlib](Radical%20Solutions/3%20Octagons%20in%20a%20Triangle%20(Derivation)/) |
+| **6 Pentagons in an Octagon** | $2(\sqrt{2} - 1)\sin\left(\frac{\pi}{5}\right)\left[\frac{2\sin\left(\frac{\pi}{5}\right) + \sqrt{5} + 4}{1 + \sqrt{2}\tan\left(\frac{\pi}{5}\right)}\right]$ | `1.78003` | [Equations & SymPy Solver](Radical%20Solutions/6%20Pentagons%20in%20an%20Octagon%20(Radical,%20Record,%20Long)/) |
+| **7 Pentagons in a Hexagon** | $\frac{2\sqrt{5} - 1 + \sqrt{15 - 6\sqrt{5}}}{2}$ | `2.36527` | [SymPy Script & Desmos](Radical%20Solutions/7%20Pentagons%20in%20a%20Hexagon%20(Radical,%20Record)/) |
+| **9 Pentagons in an Octagon** | $\frac{\sqrt{5} + \sqrt{5+\sqrt{5}}}{\sqrt{10 - 2\sqrt{5}}}$ | `2.09517` | [SymPy Script & Desmos](Radical%20Solutions/9%20Pentagons%20in%20an%20Octagon%20(Radical,%20Record)/) |
+| **3 Hexagons in an Octagon** | $3 + 2\sqrt{6} - 2\sqrt{2} - 2\sqrt{3}$ | `1.60645` | [Analytical Solver](Radical%20Solutions/3%20Hexagons%20in%20an%20Octagon%20(Radical)/) |
+| **3 Octagons in a Triangle** | $\frac{6 + 5\sqrt{2} + 4\sqrt{3} + 3\sqrt{6}}{4}$ | `6.83693` | [SymPy & Matplotlib](Radical%20Solutions/3%20Octagons%20in%20a%20Triangle%20(Radical)/) |
 
 ---
 
